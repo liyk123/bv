@@ -1,3 +1,3 @@
 [submodule "libs"]
 	path = libs
-	url = https://github.com/aaa1115910/bv-libs.git
+    url=git@github.com:liyk123/bv-libs.git
